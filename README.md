@@ -60,7 +60,7 @@ Currency Converter
 
 Exchange Rate Dynamics
 
-<img src="https://github.com/chiefbaki/currency-converter/assets/61545789/b970842d-4c7b-42af-970e-cc8d2d0ba94a" width="550" height="350">
+<img src="https://github.com/chiefbaki/currency-converter/assets/61545789/b970842d-4c7b-42af-970e-cc8d2d0ba94a" width="600" height="500">
 
 Contributing
 Contributions are welcome! Feel free to open issues or pull requests.
