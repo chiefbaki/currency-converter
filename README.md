@@ -56,11 +56,11 @@ Click the "Build Graph" button to visualize the exchange rate dynamics.
 Screenshots
 Currency Converter
 
-<img src="" width="300" height="620">
+<img src="https://github.com/chiefbaki/currency-converter/assets/61545789/0ec86086-e6d7-4ac1-91ad-cae9f7d1d1f0" width="620" height="620">
 
 Exchange Rate Dynamics
 
-<img src="" width="300" height="620">
+<img src="https://github.com/chiefbaki/currency-converter/assets/61545789/b970842d-4c7b-42af-970e-cc8d2d0ba94a" width="620" height="620">
 
 Contributing
 Contributions are welcome! Feel free to open issues or pull requests.
